@@ -1,0 +1,33 @@
+.borderless.topmenu.menu{
+  border:none;
+  box-shadow: none;
+}
+
+.bar-background{
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+p{
+  color: white;
+}
+.green-background{
+  background-color: #004030;
+  height:200px;
+}
+
+a:link{
+  color:black;
+}
+
+a:visited{
+  color: aqua;
+}
+a:active{
+  color: black;
+}
+
+a:hover{
+  color:black;
+}
