@@ -1,6 +1,7 @@
 .borderless.topmenu.menu{
   border:none;
   box-shadow: none;
+  padding: 5px;
 }
 
 .bar-background{
@@ -17,12 +18,16 @@ p{
   height:200px;
 }
 
+.ui.three.column.grid.container{
+  padding: 10px;
+}
+
 a:link{
   color:black;
 }
 
 a:visited{
-  color: aqua;
+  color: black;
 }
 a:active{
   color: black;
@@ -30,4 +35,8 @@ a:active{
 
 a:hover{
   color:black;
+}
+
+h3{
+  color: white;
 }
